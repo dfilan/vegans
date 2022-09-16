@@ -4,3 +4,4 @@ jupyterlab==1.2.21
 sphinx==3.5.4
 sphinx-rtd-theme==0.5.2
 recommonmark==0.7.1
+protobuf==3.20.2
